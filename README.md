@@ -1,4 +1,4 @@
-# PHPUnit Skeleton Generator (WebSharks Flavor)
+## PHPUnit Skeleton Generator (WebSharks Flavor)
 
 A tool that can generate test classes from production code.
 

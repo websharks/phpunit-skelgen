@@ -1,0 +1,9 @@
+
+		/**
+		 * @covers {className}::{origMethodName}
+		 * @expectedException {expected}
+		 */
+		public function test{methodName}()
+			{
+				{preface}{className}::{origMethodName}({arguments});
+			}

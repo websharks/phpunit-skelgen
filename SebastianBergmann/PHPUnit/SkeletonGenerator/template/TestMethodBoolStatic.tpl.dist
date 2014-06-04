@@ -1,0 +1,10 @@
+
+		/**
+		 * @covers {className}::{origMethodName}
+		 */
+		public function test{methodName}()
+			{
+				{preface}$this->assert{assertion}(
+					{className}::{origMethodName}({arguments})
+				);
+			}
